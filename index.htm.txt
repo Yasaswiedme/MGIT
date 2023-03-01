@@ -1,0 +1,16 @@
+<!DOCTYUPE html>
+<html>
+<body>
+
+
+<h1>Make your skin flawless</h1>
+<p>Developed by skincare laboratories, the L’Oréal Glycolic Bright range is a breakthrough
+ revolution in skin brightening products. Formulated with glycolic acid for the skin, the
+ products in this range are clinically proven not to reduce dark spots, dullness, and give 
+ your skin a healthy glow in just a few weeks. The L’Oréal Glycolic acid products are
+ dermatologically tested and suitable for all skin types to help you achieve radiant
+ skin on the go.</p>
+
+
+</body>
+</html>
